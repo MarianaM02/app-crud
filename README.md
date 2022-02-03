@@ -1,9 +1,7 @@
 # App CRUD
----
 Este es un proyecto de ejemplo usando Maven y JDBC.
 
 ## web.xml
----
 Crear el archivo en /app-crud/src/main/webapp/WEB-INF/web.xml y completar con los datos de la base de datos:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
